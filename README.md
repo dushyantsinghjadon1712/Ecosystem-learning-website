@@ -69,16 +69,16 @@ EcoSystem addresses the critical gap in environmental education by combining:
 - MongoDB 4.4+
 
 ### Backend Setup
-cd backend
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-python app.py
+- cd backend
+- python -m venv venv
+- venv\Scripts\activate
+- pip install -r requirements.txt
+- python app.py
 
 ### Frontend Setup
-cd frontend
-npm install
-npm start
+- cd frontend
+- npm install
+- npm start
 
 
 Access at `http://localhost:3000`
